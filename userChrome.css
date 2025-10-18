@@ -1,3 +1,7 @@
+@import "latipun-overrides/topbar-buttons.css";
+@import "latipun-overrides/tab-styles-and-animation.css";
+@import "latipun-overrides/tab-folders.css";
+
 /* This is the config guide for Nebula theme
 Here you can tweak the various settings like animations, features, etc. to your own preference 
 by changing the variables or adding preferences in about:config
@@ -25,7 +29,3 @@ without searching through the code directly */
 
   --nebula-color-shadow: light-dark(var(--var-nebula-color-shadow-light), var(--var-nebula-color-shadow-dark)) !important;
 }
-
-@import "latipun-overrides/topbar-buttons.css";
-@import "latipun-overrides/tab-styles-and-animation.css";
-@import "latipun-overrides/tab-folders.css";
