@@ -1,0 +1,16 @@
+{
+  "id": "zzzzz-latipun-overrides",
+  "name": "Latipun's Overrides",
+  "description": "Zen Browser theme overrides",
+  "homepage": "https://github.com/latipun7/zen-theme-overrides",
+  "style": {
+    "chrome": "https://raw.githubusercontent.com/latipun7/zen-theme-overrides/refs/heads/main/userChrome.css"
+  },
+  "readme": "https://raw.githubusercontent.com/latipun7/zen-theme-overrides/refs/heads/main/readme.md",
+  "author": "latipun7",
+  "version": "1.0.0",
+  "tags": ["Zen Browser", "Theme Overrides"],
+  "createdAt": "2025-10-18",
+  "updatedAt": "2025-10-18",
+  "fork": ["zen"]
+}
